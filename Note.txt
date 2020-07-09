@@ -1,4 +1,6 @@
 -Short of money: thiếu tiền.
--Wear/wore/worn
--Deliberate: Cố tình.
--Cupboard: Cái tủ.
+-Wear/wore/worn(v): mặc
+-Deliberate(adj): Cố tình.
+-Deliberate(v): đắn đo/ suy xét
+-Cupboard(n): Cái tủ.
+-Shelf(n): kệ tủ/ kệ sách
