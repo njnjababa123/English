@@ -4,3 +4,4 @@
 -Deliberate(v): đắn đo/ suy xét
 -Cupboard(n): Cái tủ.
 -Shelf(n): kệ tủ/ kệ sách
+-The lift(n) = elevator(n): Thang máy
