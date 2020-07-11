@@ -5,3 +5,5 @@
 -Cupboard(n): Cái tủ.
 -Shelf(n): kệ tủ/ kệ sách
 -The lift(n) = elevator(n): Thang máy
+-Stay up(v): Thức
+-Pastry(n): Bánh ngọt, đồ ăn ngọt nói chung.
