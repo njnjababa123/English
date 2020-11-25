@@ -1,0 +1,19 @@
+Initiative = idea(n)
+
+Evaluate = determine(v)
+
+Spreadsheet = Software(n)
+
+Irrigation = watering(n)
+
+Relatively = approximately = almost(adv)
+
+Dominantly = principally = mainly(adv)
+
+Significant = meaningful(adj)
+
+Practical = realistic = useful(adj)
+
+Effective + day = The day that policy/term/announcement starts to operate
+
+Fund (v) = provide money for ...
