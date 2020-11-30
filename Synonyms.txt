@@ -10,7 +10,7 @@ Relatively = approximately = almost(adv)
 
 Dominantly = principally = mainly(adv)
 
-Significant = meaningful(adj)
+Significant = informative = meaningful(adj)
 
 Practical = realistic = useful(adj)
 
@@ -53,4 +53,25 @@ interiors = domestic = internal = inland
 contemporary = morden
 
 length of contract = time last long of contract
+
+complementary(adj) = integral = filling = completing
+
+complement(n) = companion = counterpart = accompaniment
+
+claim(n) = demand = request
+
+claim(n) = Allegation = Assertion placing blame
+
+claim(v) = declare = assert = maintain = argue for 
+
+absorbent = can easily drain liquid into it
+
+surplus(adj) = leftover = extra
+
+superficial = trivial = slight = without depth, detail
+
+magnificent = brilliant = wonderful = glorious = impressive = superior
+
+unanimous = collective = consistent = persistent
+
 
